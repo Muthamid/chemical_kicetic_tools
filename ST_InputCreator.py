@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec 16 13:29:46 2018
-@author: Sergio
+@author: Sergio Martinez
+This code snippet extracts experimental data from Excel files and
+creates a Shick Tube (ST) input file for running simulations
+using the Cantera toolkit.
 """
 #===========================================
 import os
