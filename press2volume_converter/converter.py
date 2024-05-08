@@ -2,7 +2,13 @@
 #"""
 #Created on 2018
 #@author: Sergio Martinez
-# 
+# This code snippet reads voltage converted into pressure experimental
+# data. It transfers it into volume data to be used as an RCM input
+# volume history file to run simulations using Cantera tools.
+# Important Note: please be aware that this snippet requires 
+# a third software executable (segmentfit.exe). To obtain this, please
+# email directly to "sergioesmartines@gmail" and place on the subject
+# "software to press2volume.py" title. Thanks.
 #"""
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # IMPORT MODULES                                                              +
